@@ -143,6 +143,24 @@ $(BIN)/test/BnCSolverTest: $(BIN)/disjoint-sets/DisjointSets.o \
 	$(MKDIR) $(@D)
 	$(CPP) $(CXXFILES) -o $@ $^ $(CARGS) $(DLIB) -I$(GRBINC) $(GRBLIB)
 
+$(BIN)/exec/BnCSolverExec: $(BIN)/disjoint-sets/DisjointSets.o \
+                           $(BIN)/graph/Vertex.o \
+                           $(BIN)/graph/Edge.o \
+                           $(BIN)/graph/Graph.o \
+                           $(BIN)/instance/Instance.o \
+                           $(BIN)/solution/Solution.o \
+                           $(BIN)/solver/heuristic/Heuristic.o \
+                           $(BIN)/solver/heuristic/constructive/GreedyConstructiveHeuristic.o \
+                           $(BIN)/solver/heuristic/fixer/SolutionFixer.o \
+                           $(BIN)/solver/heuristic/localsearch/LocalSearchHeuristic.o \
+                           $(BIN)/solver/CEDPSolver.o \
+                           $(BIN)/solver/exact/branch-and-cut/BnCSolverCallback.o \
+                           $(BIN)/solver/exact/branch-and-cut/BnCSolver.o \
+                           $(BIN)/exec/ArgumentParser.o \
+                           $(BIN)/exec/BnCSolverExec.o
+	$(MKDIR) $(@D)
+	$(CPP) $(CXXFILES) -o $@ $^ $(CARGS) $(DLIB) -I$(GRBINC) $(GRBLIB)
+
 InstanceTest: $(BIN)/test/InstanceTest
 
 ArtificialInstanceGeneratorExec: $(BIN)/exec/ArtificialInstanceGeneratorExec
@@ -160,4 +178,6 @@ BnBSolverTest: $(BIN)/test/BnBSolverTest
 BnBSolverExec: $(BIN)/exec/BnBSolverExec
 
 BnCSolverTest: $(BIN)/test/BnCSolverTest
+
+BnCSolverExec: $(BIN)/exec/BnCSolverExec
 
