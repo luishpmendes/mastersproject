@@ -194,6 +194,22 @@ $(BIN)/exec/GRASPSolverExec: $(BIN)/disjoint-sets/DisjointSets.o \
 	$(MKDIR) $(@D)
 	$(CPP) $(CXXFILES) -o $@ $^ $(CARGS) $(DLIB)
 
+$(BIN)/test/LagrangianHeuristicSolver1Test: $(BIN)/disjoint-sets/DisjointSets.o \
+                                            $(BIN)/graph/Vertex.o \
+                                            $(BIN)/graph/Edge.o \
+                                            $(BIN)/graph/Graph.o \
+                                            $(BIN)/instance/Instance.o \
+                                            $(BIN)/solution/Solution.o \
+                                            $(BIN)/solver/heuristic/Heuristic.o \
+                                            $(BIN)/solver/heuristic/constructive/GreedyConstructiveHeuristic.o \
+                                            $(BIN)/solver/heuristic/fixer/SolutionFixer.o \
+                                            $(BIN)/solver/heuristic/localsearch/LocalSearchHeuristic.o \
+                                            $(BIN)/solver/CEDPSolver.o \
+                                            $(BIN)/solver/metaheuristic/lagrangian-heuristic/LagrangianHeuristicSolver1.o \
+                                            $(BIN)/test/LagrangianHeuristicSolver1Test.o
+	$(MKDIR) $(@D)
+	$(CPP) $(CXXFILES) -o $@ $^ $(CARGS) $(DLIB)
+
 InstanceTest: $(BIN)/test/InstanceTest
 
 ArtificialInstanceGeneratorExec: $(BIN)/exec/ArtificialInstanceGeneratorExec
@@ -217,4 +233,6 @@ BnCSolverExec: $(BIN)/exec/BnCSolverExec
 GRASPSolverTest: $(BIN)/test/GRASPSolverTest
 
 GRASPSolverExec: $(BIN)/exec/GRASPSolverExec
+
+LagrangianHeuristicSolver1Test: $(BIN)/test/LagrangianHeuristicSolver1Test
 
