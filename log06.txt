@@ -1,0 +1,265 @@
+LinearRelaxationSolver
+make: Nothing to be done for `LinearRelaxationSolverExec'.
+Instance: grid-m5V25E32B05D10
+Start time: Sex Mai 24 17:15:05 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:06 -03 2019
+Instance: grid-m5V49E66B05D10
+Start time: Sex Mai 24 17:15:06 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:08 -03 2019
+Instance: grid-m5V100E140B05D10
+Start time: Sex Mai 24 17:15:08 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:20 -03 2019
+Instance: grid-m10V25E32B05D10
+Start time: Sex Mai 24 17:15:20 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:21 -03 2019
+Instance: grid-m10V49E66B05D10
+Start time: Sex Mai 24 17:15:21 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:25 -03 2019
+Instance: grid-m10V100E140B05D10
+Start time: Sex Mai 24 17:15:25 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:55 -03 2019
+Instance: random-m5V25E32B05D10
+Start time: Sex Mai 24 17:15:55 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:15:56 -03 2019
+Instance: random-m5V49E66B05D10
+Start time: Sex Mai 24 17:15:56 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:16:00 -03 2019
+Instance: random-m5V100E140B05D10
+Start time: Sex Mai 24 17:16:00 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:16:28 -03 2019
+Instance: random-m10V25E32B05D10
+Start time: Sex Mai 24 17:16:28 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:16:30 -03 2019
+Instance: random-m10V49E66B05D10
+Start time: Sex Mai 24 17:16:30 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:16:39 -03 2019
+Instance: random-m10V100E140B05D10
+Start time: Sex Mai 24 17:16:39 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:17:33 -03 2019
+BnBSolver
+make: Nothing to be done for `BnBSolverExec'.
+Instance: grid-m5V25E32B05D10
+Start time: Sex Mai 24 17:17:33 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 17:40:33 -03 2019
+Instance: grid-m5V49E66B05D10
+Start time: Sex Mai 24 17:40:33 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 18:40:33 -03 2019
+Instance: grid-m5V100E140B05D10
+Start time: Sex Mai 24 18:40:33 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 19:40:34 -03 2019
+Instance: grid-m10V25E32B05D10
+Start time: Sex Mai 24 19:40:34 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 20:29:59 -03 2019
+Instance: grid-m10V49E66B05D10
+Start time: Sex Mai 24 20:29:59 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 21:30:00 -03 2019
+Instance: grid-m10V100E140B05D10
+Start time: Sex Mai 24 21:30:00 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 22:30:01 -03 2019
+Instance: random-m5V25E32B05D10
+Start time: Sex Mai 24 22:30:01 -03 2019
+Academic license - for non-commercial use only
+End time: Sex Mai 24 23:12:40 -03 2019
+Instance: random-m5V49E66B05D10
+Start time: Sex Mai 24 23:12:40 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 00:12:40 -03 2019
+Instance: random-m5V100E140B05D10
+Start time: Sáb Mai 25 00:12:40 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 01:12:41 -03 2019
+Instance: random-m10V25E32B05D10
+Start time: Sáb Mai 25 01:12:41 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 02:12:42 -03 2019
+Instance: random-m10V49E66B05D10
+Start time: Sáb Mai 25 02:12:42 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 03:12:42 -03 2019
+Instance: random-m10V100E140B05D10
+Start time: Sáb Mai 25 03:12:42 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 04:12:44 -03 2019
+BnCSolver
+make: Nothing to be done for `BnCSolverExec'.
+Instance: grid-m5V25E32B05D10
+Start time: Sáb Mai 25 04:12:44 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 04:14:27 -03 2019
+Instance: grid-m5V49E66B05D10
+Start time: Sáb Mai 25 04:14:27 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 05:14:28 -03 2019
+Instance: grid-m5V100E140B05D10
+Start time: Sáb Mai 25 05:14:28 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 06:14:29 -03 2019
+Instance: grid-m10V25E32B05D10
+Start time: Sáb Mai 25 06:14:29 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 06:21:04 -03 2019
+Instance: grid-m10V49E66B05D10
+Start time: Sáb Mai 25 06:21:04 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 07:21:05 -03 2019
+Instance: grid-m10V100E140B05D10
+Start time: Sáb Mai 25 07:21:05 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 08:21:05 -03 2019
+Instance: random-m5V25E32B05D10
+Start time: Sáb Mai 25 08:21:05 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 08:38:24 -03 2019
+Instance: random-m5V49E66B05D10
+Start time: Sáb Mai 25 08:38:24 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 09:38:24 -03 2019
+Instance: random-m5V100E140B05D10
+Start time: Sáb Mai 25 09:38:24 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 10:38:44 -03 2019
+Instance: random-m10V25E32B05D10
+Start time: Sáb Mai 25 10:38:44 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 10:45:49 -03 2019
+Instance: random-m10V49E66B05D10
+Start time: Sáb Mai 25 10:45:49 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 11:45:50 -03 2019
+Instance: random-m10V100E140B05D10
+Start time: Sáb Mai 25 11:45:50 -03 2019
+Academic license - for non-commercial use only
+End time: Sáb Mai 25 12:45:53 -03 2019
+GRASPSolver
+make: Nothing to be done for `GRASPSolverExec'.
+alpha=0.05
+Instance: grid-m5V25E32B05D10
+Start time: Sáb Mai 25 12:45:53 -03 2019
+-3658 3600
+End time: Sáb Mai 25 13:45:53 -03 2019
+Instance: grid-m5V49E66B05D10
+Start time: Sáb Mai 25 13:45:53 -03 2019
+-14423 3600
+End time: Sáb Mai 25 14:45:54 -03 2019
+Instance: grid-m5V100E140B05D10
+Start time: Sáb Mai 25 14:45:54 -03 2019
+-59813 3600
+End time: Sáb Mai 25 15:45:54 -03 2019
+Instance: grid-m10V25E32B05D10
+Start time: Sáb Mai 25 15:45:54 -03 2019
+-8284 3600
+End time: Sáb Mai 25 16:45:54 -03 2019
+Instance: grid-m10V49E66B05D10
+Start time: Sáb Mai 25 16:45:54 -03 2019
+-33328 3600
+End time: Sáb Mai 25 17:45:54 -03 2019
+Instance: grid-m10V100E140B05D10
+Start time: Sáb Mai 25 17:45:54 -03 2019
+-131017 3600
+End time: Sáb Mai 25 18:45:54 -03 2019
+Instance: random-m5V25E32B05D10
+Start time: Sáb Mai 25 18:45:54 -03 2019
+-3280 3600
+End time: Sáb Mai 25 19:45:54 -03 2019
+Instance: random-m5V49E66B05D10
+Start time: Sáb Mai 25 19:45:54 -03 2019
+-15843 3600
+End time: Sáb Mai 25 20:45:54 -03 2019
+Instance: random-m5V100E140B05D10
+Start time: Sáb Mai 25 20:45:54 -03 2019
+-67020 3600
+End time: Sáb Mai 25 21:45:55 -03 2019
+Instance: random-m10V25E32B05D10
+Start time: Sáb Mai 25 21:45:55 -03 2019
+-8273 3600
+End time: Sáb Mai 25 22:45:55 -03 2019
+Instance: random-m10V49E66B05D10
+Start time: Sáb Mai 25 22:45:55 -03 2019
+-33761 3600
+End time: Sáb Mai 25 23:45:55 -03 2019
+Instance: random-m10V100E140B05D10
+Start time: Sáb Mai 25 23:45:55 -03 2019
+-143937 3600
+End time: Dom Mai 26 00:45:55 -03 2019
+LagrangianHeuristicSolver2
+make: Nothing to be done for `LagrangianHeuristicSolver2Exec'.
+N=30
+Instance: grid-m5V25E32B05D10
+Start time: Dom Mai 26 00:45:55 -03 2019
+Academic license - for non-commercial use only
+0 227
+End time: Dom Mai 26 00:49:43 -03 2019
+Instance: grid-m5V49E66B05D10
+Start time: Dom Mai 26 00:49:43 -03 2019
+Academic license - for non-commercial use only
+-13900 1202
+End time: Dom Mai 26 01:09:46 -03 2019
+Instance: grid-m5V100E140B05D10
+Start time: Dom Mai 26 01:09:46 -03 2019
+Academic license - for non-commercial use only
+-56932 3611
+End time: Dom Mai 26 02:09:57 -03 2019
+Instance: grid-m10V25E32B05D10
+Start time: Dom Mai 26 02:09:57 -03 2019
+Academic license - for non-commercial use only
+0 394
+End time: Dom Mai 26 02:16:31 -03 2019
+Instance: grid-m10V49E66B05D10
+Start time: Dom Mai 26 02:16:31 -03 2019
+Academic license - for non-commercial use only
+0 1828
+End time: Dom Mai 26 02:47:00 -03 2019
+Instance: grid-m10V100E140B05D10
+Start time: Dom Mai 26 02:47:00 -03 2019
+Academic license - for non-commercial use only
+0 3622
+End time: Dom Mai 26 03:47:23 -03 2019
+Instance: random-m5V25E32B05D10
+Start time: Dom Mai 26 03:47:23 -03 2019
+Academic license - for non-commercial use only
+0 195
+End time: Dom Mai 26 03:50:38 -03 2019
+Instance: random-m5V49E66B05D10
+Start time: Dom Mai 26 03:50:38 -03 2019
+Academic license - for non-commercial use only
+0 1271
+End time: Dom Mai 26 04:11:50 -03 2019
+Instance: random-m5V100E140B05D10
+Start time: Dom Mai 26 04:11:50 -03 2019
+Academic license - for non-commercial use only
+-63162 3621
+End time: Dom Mai 26 05:12:12 -03 2019
+Instance: random-m10V25E32B05D10
+Start time: Dom Mai 26 05:12:12 -03 2019
+Academic license - for non-commercial use only
+0 419
+End time: Dom Mai 26 05:19:11 -03 2019
+Instance: random-m10V49E66B05D10
+Start time: Dom Mai 26 05:19:11 -03 2019
+Academic license - for non-commercial use only
+0 1979
+End time: Dom Mai 26 05:52:11 -03 2019
+Instance: random-m10V100E140B05D10
+Start time: Dom Mai 26 05:52:11 -03 2019
+Academic license - for non-commercial use only
+0 3634
+End time: Dom Mai 26 06:52:45 -03 2019
+Finished
