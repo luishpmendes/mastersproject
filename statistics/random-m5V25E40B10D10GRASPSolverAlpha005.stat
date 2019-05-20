@@ -1,0 +1,25 @@
+m: 5
+D: 698
+B: 1
+|V|: 25
+|E|: 40
+|U|: 40
+|A|: 115
+|U'|: 41
+|A'|: 155
+Time limit: 3600s
+Seed: 1867917784
+Solving time: 3600s
+Solutions found: 67490
+Best primal bound: 6167
+Best dual bound: 1.79769e+308
+Is solution feasible: 1
+Total iterations: 79028
+Best solution iteration: 5477
+Best solution time: 247
+Solutions that are not partition: 0
+Solutions that are not connected: 14703
+Solutions that do not respects the capacity: 0
+Solutions that are not balanced: 0
+Solutions that are not feasible: 14703
+Solutions that were fixed: 3166

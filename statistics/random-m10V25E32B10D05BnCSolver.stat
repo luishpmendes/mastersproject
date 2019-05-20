@@ -1,0 +1,16 @@
+m: 10
+D: 211
+B: 1
+|V|: 25
+|E|: 32
+|U|: 32
+|A|: 83
+|U'|: 33
+|A'|: 115
+Time limit: 3600s
+Seed: 554937558
+Solving time: 150s
+Solutions found: 2
+Best primal bound: 8401
+Best dual bound: 8401
+Is solution feasible: 1

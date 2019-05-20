@@ -1,0 +1,16 @@
+m: 5
+D: 3095
+B: 1
+|V|: 100
+|E|: 180
+|U|: 180
+|A|: 652
+|U'|: 181
+|A'|: 832
+Time limit: 3600s
+Seed: 3242025437
+Solving time: 3600s
+Solutions found: 2
+Best primal bound: 122349
+Best dual bound: 128082
+Is solution feasible: 1

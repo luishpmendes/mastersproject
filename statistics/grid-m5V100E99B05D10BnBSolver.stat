@@ -1,0 +1,16 @@
+m: 5
+D: 2152
+B: 0.5
+|V|: 100
+|E|: 99
+|U|: 99
+|A|: 137
+|U'|: 100
+|A'|: 236
+Time limit: 3600s
+Seed: 3116349097
+Solving time: 3601s
+Solutions found: 2
+Best primal bound: 28914
+Best dual bound: 33470
+Is solution feasible: 1

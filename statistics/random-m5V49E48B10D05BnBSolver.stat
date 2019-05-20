@@ -1,0 +1,16 @@
+m: 5
+D: 629
+B: 1
+|V|: 49
+|E|: 48
+|U|: 48
+|A|: 71
+|U'|: 49
+|A'|: 119
+Time limit: 3600s
+Seed: 2871004432
+Solving time: 3600s
+Solutions found: 1
+Best primal bound: 6599
+Best dual bound: 7632
+Is solution feasible: 1
